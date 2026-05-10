@@ -1,0 +1,2 @@
+# fluent_python_notes
+fluent_python_notes
